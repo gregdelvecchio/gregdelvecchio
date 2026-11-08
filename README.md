@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi, I'm Greg.
 
+I'm a product manager currently building at Goldman Sachs, previously in product roles at Flexport and Akamai.
+
+[gregdelvecchio.com](https://www.gregdelvecchio.com)
 <!--
 **gregdelvecchio/gregdelvecchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
